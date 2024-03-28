@@ -2,7 +2,7 @@
 <img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;text-align:center"/> | ![Top Langs](https://github-readme-stats-90gzcblso-trshpuppy.vercel.app/api/top-langs/?username=deletec00kiesb4leaving&show_icons=true&layout=compact&theme=github_dark_dimmed&langs_count=6&border_radius=4.5)
 :-|-:
 
-## About Me? 
+## 🤌 About Me? 
 I've been in to computers since I was a kid and, unfortunatly (or not), I've been 4 years off and now I'm back at it!
 
 I'm starting to use GitHub at the end of March'24, so from now on you can find some projects I choose to publish here.
