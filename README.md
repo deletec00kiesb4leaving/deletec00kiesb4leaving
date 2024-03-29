@@ -25,7 +25,7 @@ I'm starting to use GitHub at the end of March'24, so from now on you can find s
 
 ### Privacy Policy
 - If I sent you here, it's probably because we already met, so no introductions needed. 
-- Otherwise, hope you like what you'll see here. 🕵️
+- Otherwise, let's keep this private.
 
 ### Send me a Letter 📬
 [Signal:](https://signal.me/#eu/uAD4w4Z9V8YN1mEO9buCakOS8DUpDz53OgT-iBr-hXx020T6KDBPVp-Rhzi_M1aJ) @deletec00kiesb4leaving.79
