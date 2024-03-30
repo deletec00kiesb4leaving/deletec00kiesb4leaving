@@ -11,7 +11,7 @@ I'm starting to use GitHub at the end of March'24, so from now on you can find s
 - Cybersecurity
 - Automations
 - Reverse-Engineering
-- Malware
+- Malware Analysis
 
 ### 👷‍♂️ Projects outside computing:
   - Freelance Photography
