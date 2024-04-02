@@ -1,16 +1,19 @@
-# Hi🧑‍🍳! Welcome to my Cookie Jar! 🍪🍪🍪
-<img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;width:200px;text-align:center"/> | ![Top Langs](https://github-readme-stats-90gzcblso-trshpuppy.vercel.app/api/top-langs/?username=deletec00kiesb4leaving&show_icons=true&layout=compact&theme=github_dark_dimmed&langs_count=6&border_radius=4.5) | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=deletec00kiesb4leaving&theme=github_dark_dimmed&hide_border=false)
-| :---         |     :---:      |          ---: |
+# Hi! Welcome to my Cookie Jar! 🍪🍪🍪
+
+<img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;width:200px;text-align:center"/> | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=deletec00kiesb4leaving&theme=github_dark_dimmed&hide_border=false)
+|     :---:      |     :---:      |
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJx_N_21P4kW5dsELL1Kbo36qYzEBDVOapu3rg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=aa90f862f1ee3af997ae279c830cb43db786945a17809c1be178ec0bb7f2467b&ipo=images" style="height:200px;width:200px;text-align:center"/> | ![Top Langs](https://github-readme-stats-90gzcblso-trshpuppy.vercel.app/api/top-langs/?username=deletec00kiesb4leaving&show_icons=true&layout=compact&theme=github_dark_dimmed&langs_count=6&border_radius=4.5) 
 
 
 ## 🤌 About Me? 
 I've been in to computers since I was a kid and, unfortunatly (or not), I've been 4 years off and now I'm back at it!
 
-I'm starting to use GitHub at the end of March'24, so from now on you can find some projects I choose to publish here.
+I'm starting to use GitHub at the end of March'24, so from now on, you can find some projects I choose to publish here.
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ### 👀 Interests:
+- Encryption
 - Privacy
 - Cybersecurity
 - Automations
@@ -31,10 +34,10 @@ I'm starting to use GitHub at the end of March'24, so from now on you can find s
 
 
 ### Privacy Policy
-- If I sent you here, it's probably because we already met, so no introductions needed. 
-- Otherwise, let's keep this private.
-```Bash
-   $ rm ~/.browser/cookies.sqlite
+- If I sent you here, it's probably because we already met, so no introductions needed.[^1]
+- Otherwise, let's keep this private.[^2]
+```bash, sh, zsh
+   $ rm ~/browser/cookies.sqlite
 ```
 
 ### Send me a Letter 📬
@@ -42,8 +45,8 @@ I'm starting to use GitHub at the end of March'24, so from now on you can find s
 
 
 [^1]: If you were redirected to my GitHub page and have my email, you can send me an email instead of a Signal message.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+[^2]: Tracking IP Adresses, Browser Fingerprinting and Accepting *ALL* Cookies are the worst things for your privacy.
+  [How to Remove Cookies](https://search.brave.com/search?q=how+to+remove+cookies+from+my+browser)
 
 <!---
 deletec00kiesb4leaving/deletec00kiesb4leaving is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
