@@ -1,5 +1,5 @@
 # Hi🧑‍🍳! Welcome to my Cookie Jar! 🍪🍪🍪
-<img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;text-align:center"/> | ![Top Langs](https://github-readme-stats-90gzcblso-trshpuppy.vercel.app/api/top-langs/?username=deletec00kiesb4leaving&show_icons=true&layout=compact&theme=github_dark_dimmed&langs_count=6&border_radius=4.5) | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=deletec00kiesb4leaving&theme=github_dark_dimmed&hide_border=false)
+<img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;width:200px;text-align:center"/> | ![Top Langs](https://github-readme-stats-90gzcblso-trshpuppy.vercel.app/api/top-langs/?username=deletec00kiesb4leaving&show_icons=true&layout=compact&theme=github_dark_dimmed&langs_count=6&border_radius=4.5) | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=deletec00kiesb4leaving&theme=github_dark_dimmed&hide_border=false)
 | :---         |     :---:      |          ---: |
 
 
