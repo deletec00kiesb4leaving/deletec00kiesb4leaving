@@ -1,6 +1,6 @@
 # deletec00kiesb4leaving
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Filmmaker)`**
 <h4>About Me</h4>
 I'm a tech enthusiast with a renewed zeal for programming. After a four-year break, I’ve dusted off my keyboard, sharpened my debugging skills, and embarked on an exciting journey back into the world of code.
 <h6>The Break</h6>
