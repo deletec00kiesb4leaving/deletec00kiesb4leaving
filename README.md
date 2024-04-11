@@ -6,9 +6,7 @@ I'm a tech enthusiast with a renewed zeal for programming. After a four-year bre
 <h6>The Break</h6>
 For the past four years, I stepped away from programming to explore other paths. During this time, I learned valuable lessons in management, leadership, and problem-solving—skills that I now bring back to my coding endeavors.
 
-**My goals are clear:** I want to dive deep into software development, explore machine learning, and contribute to open-source projects. I’m excited to learn new languages, frameworks, and paradigms. The thrill of solving complex problems and creating elegant software keeps me going.
-
-Let’s write some beautiful code together!
+**My goals are clear:** I want to dive deep into software development, explore machine learning, and contribute to open-source projects. I’m excited to learn new languages, tools, and technologies so I can leverage my creativity and my passion.
 
 **P.S:** I'm starting to use GitHub at the end of March'24, so from now on, you can find some projects I choose to publish here.
 
