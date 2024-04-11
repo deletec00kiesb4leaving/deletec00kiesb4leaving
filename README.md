@@ -28,9 +28,6 @@ Let’s write some beautiful code together!
 - Encryption
 - Privacy
 - Cybersecurity
-- Automations
-- Reverse-Engineering
-- Malware Analysis
 
 ### 👷‍♂️ Projects outside computing:
   - Freelance Photography
