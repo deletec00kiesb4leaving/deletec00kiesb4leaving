@@ -13,13 +13,14 @@ For the past four years, I stepped away from programming to explore other paths.
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Javascript](https://img.shields.io/badge/javascript-ff3030?style=for-the-badge&logo=javascript&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+
 ---
 
 ## Welcome to my Cookie Jar! 🍪🍪🍪
 
 <img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;width:200px;text-align:center"/> | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=deletec00kiesb4leaving&theme=github_dark_dimmed&hide_border=false)
 |     :---:      |     :---:      |
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJx_N_21P4kW5dsELL1Kbo36qYzEBDVOapu3rg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=aa90f862f1ee3af997ae279c830cb43db786945a17809c1be178ec0bb7f2467b&ipo=images" style="height:200px;width:200px;text-align:center"/> | ![Top Langs](https://github-readme-stats-90gzcblso-trshpuppy.vercel.app/api/top-langs/?username=deletec00kiesb4leaving&show_icons=true&layout=compact&theme=github_dark_dimmed&langs_count=6&border_radius=4.5) 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJx_N_21P4kW5dsELL1Kbo36qYzEBDVOapu3rg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=aa90f862f1ee3af997ae279c830cb43db786945a17809c1be178ec0bb7f2467b&ipo=images" style="height:200px;width:200px;text-align:center"/> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deletec00kiesb4leaving&layout=compact&show_icons=true&theme=github_dark_dimmed)
 
 
 ### 👀 Interests:
