@@ -1,4 +1,4 @@
-# deletec00kiesb4leaving
+# Cybersecurity Analyst with Experience in Digital Media and Operations Management
 ## Welcome to my Cookie Jar! 🍪🍪🍪
 
 <img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;width:200px;text-align:center"/> | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=deletec00kiesb4leaving&theme=github_dark_dimmed&hide_border=false)
