@@ -1,4 +1,5 @@
 # Cybersecurity Analyst with Experience in Digital Media and Operations Management
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=734900" style='border:none;'></iframe>
 ## Welcome to my Cookie Jar! 🍪🍪🍪
 
 <img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;width:200px;text-align:center"/> | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=deletec00kiesb4leaving&theme=github_dark_dimmed&hide_border=false)
