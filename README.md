@@ -1,5 +1,6 @@
-# Cybersecurity Analyst with Experience in Digital Media and Operations Management
-<img src="https://tryhackme-badges.s3.amazonaws.com/d44h.png" alt="Your Image Badge" />
+# Cybersecurity Analyst
+<img src="https://tryhackme-badges.s3.amazonaws.com/d44h.png" alt="THM Image Badge" />
+
 ## Welcome to my Cookie Jar! 🍪🍪🍪
 
 <img src="https://media1.tenor.com/m/H3vGZ2eA49IAAAAC/cookie-monster.gif" style="height:200px;width:200px;text-align:center"/> | ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=deletec00kiesb4leaving&theme=github_dark_dimmed&hide_border=false)
