@@ -10,3 +10,5 @@
 ### 👀 Interests:
 - Privacy
 - Cybersecurity
+- OSINT
+- Forensics
