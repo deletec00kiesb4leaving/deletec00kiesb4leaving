@@ -7,9 +7,13 @@
 |     :---:      |     :---:      |
 
 ### 🌐 Interactive Web Terminal:
-[deletec00kiesb4leaving's Web Terminal](https://deletec00kiesb4leaving.github.io/)
+- [deletec00kiesb4leaving's Web Terminal](https://deletec00kiesb4leaving.github.io/)
 ### 👀 Interests:
-- Privacy
-- Cybersecurity
-- OSINT
-- Forensics
+- Privacy and Online Monitoring
+- OSINT and Forensic Analysis
+- Vulnerability Analysis and Remediation
+- Cryptography and Authentication
+- Development of Automation Tools
+- Programming in Python, Bash, JavaScript, TypeScript
+- UNIX System Administration
+- Process Documentaion
